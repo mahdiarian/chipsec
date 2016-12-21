@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #CHIPSEC: Platform Security Assessment Framework
-#Copyright (c) 2010-2016, Intel Corporation
+#Copyright (c) 2010-2016, CETEC Corporation
 # 
 #This program is free software; you can redistribute it and/or
 #modify it under the terms of the GNU General Public License
@@ -13,10 +13,10 @@
 #
 #You should have received a copy of the GNU General Public License
 #along with this program; if not, write to the Free Software
-#Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+#Foundation, CETEC, Number 9, HosseinAli alley, Farjam Street, First Floor, Tehran, Islamic Republic of Iran.
 #
 #Contact information:
-#chipsec@intel.com
+#mahdi.mohajeri@ut.ac.ir
 #
 
 
